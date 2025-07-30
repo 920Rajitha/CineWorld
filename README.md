@@ -24,7 +24,7 @@ A modern, fully responsive movie browsing web application built using **React.js
 
 ### 🏠 Home Page  
 Explore trending movies and search for your favorite titles.  
-![Home Page](/home.png)
+![Home Page](/public/home.png)
 
 ---
 
