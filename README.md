@@ -51,10 +51,3 @@ Add movies to your personal watchlist for later viewing.
 ![Watchlist](/public/watchlist.png)
 
 
-## 📦 Run Locally
-
-```bash
-git clone https://github.com/920Rajitha/CineWorld.git
-cd moviehub-react-node
-npm install
-npm start
